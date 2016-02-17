@@ -1,7 +1,7 @@
 {
-  "name": "lodash._baseiteratee",
+  "name": "lodash._baseclone",
   "version": "4.5.0",
-  "description": "The internal lodash function `baseIteratee` exported as a module.",
+  "description": "The internal lodash function `baseClone` exported as a module.",
   "homepage": "https://lodash.com/",
   "icon": "https://lodash.com/icon.svg",
   "license": "MIT",
